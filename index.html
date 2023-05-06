@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lold⅃e</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <div class="bg"></div>
+    <main>
+        <div class="uppertext">
+            <span>LOLD⅃E</span>
+            <br>
+            <div class="guessfield">
+                <div class="inputgroup">
+                    <input type="text" id="input" class="champinput">
+                    <div class="search">
+                        <ul class="champlist" id="champlist">
+                        </ul>
+                    </div>
+                </div>
+                <button type="button" id="btn" class="acceptbtn">Zgadnij</button>
+            </div>
+        </div>
+        <div class="downsection">
+            <div class="titles">
+                <span>Champion</span>
+                <span>Gender</span>
+                <span>Position(s)</span>
+                <span>Species</span>
+                <span>Resource</span>
+                <span>Range type</span>
+                <span>Region(s)</span>
+            </div>
+            <div class="champions" id="champgrid"></div>
+        </div>
+    </main>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"
+        integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>

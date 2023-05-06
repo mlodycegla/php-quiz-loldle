@@ -1,0 +1,1612 @@
+[
+  {
+    "index": 1,
+    "name": "Aatrox",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["darkin"],
+    "resource": "manaless",
+    "range": ["melee"],
+    "region": ["runeterra", "shurima"]
+  },
+  {
+    "index": 2,
+    "name": "Ahri",
+    "gender": "female",
+    "position": ["middle"],
+    "species": ["vastayan"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 3,
+    "name": "Akali",
+    "gender": "female",
+    "position": ["middle, top"],
+    "species": ["human"],
+    "resource": "energy",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 4,
+    "name": "Akshan",
+    "gender": "male",
+    "position": ["middle, top"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["shurima"]
+  },
+  {
+    "index": 5,
+    "name": "Alistar",
+    "gender": "male",
+    "position": ["support"],
+    "species": ["minotaur"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["runeterra"]
+  },
+  {
+    "index": 6,
+    "name": "Amumu",
+    "gender": "male",
+    "position": ["jungle", "support"],
+    "species": ["undead", "yordle"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["runeterra"]
+  },
+  {
+    "index": 7,
+    "name": "Anivia",
+    "gender": "female",
+    "position": ["middle"],
+    "species": ["god", "spirit"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 8,
+    "name": "Annie",
+    "gender": "female",
+    "position": ["middle"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["noxus", "runeterra"]
+  },
+  {
+    "index": 9,
+    "name": "Aphelios",
+    "gender": "male",
+    "position": ["bottom"],
+    "species": ["human", "spiritualist"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["targon"]
+  },
+  {
+    "index": 10,
+    "name": "Ashe",
+    "gender": "female",
+    "position": ["bottom", "support"],
+    "species": ["human", "iceborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 11,
+    "name": "Aurelion Sol",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["celestial", "dragon"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["runeterra", "targon"]
+  },
+  {
+    "index": 12,
+    "name": "Azir",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["god-warrior"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["shurima"]
+  },
+  {
+    "index": 13,
+    "name": "Bard",
+    "gender": "male",
+    "position": ["support"],
+    "species": ["golem"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["zaun"]
+  },
+  {
+    "index": 14,
+    "name": "Bel'veth",
+    "gender": "female",
+    "position": ["jungle"],
+    "species": ["void-being"],
+    "resource": "manaless",
+    "range": ["melee"],
+    "region": ["void"]
+  },
+  {
+    "index": 15,
+    "name": "Blitzcrank",
+    "gender": "other",
+    "position": ["support"],
+    "species": ["golem"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["zaun"]
+  },
+  {
+    "index": 16,
+    "name": "Brand",
+    "gender": "male",
+    "position": ["support"],
+    "species": ["human", "magically altered"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["freljord", "runeterra"]
+  },
+  {
+    "index": 17,
+    "name": "Braum",
+    "gender": "male",
+    "position": ["support"],
+    "species": ["human", "iceborn"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 18,
+    "name": "Caitlyn",
+    "gender": "female",
+    "position": ["bottom"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["piltover"]
+  },
+  {
+    "index": 19,
+    "name": "Camille",
+    "gender": "female",
+    "position": ["top"],
+    "species": ["cyborg", "human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["piltover"]
+  },
+  {
+    "index": 20,
+    "name": "Cassiopeia",
+    "gender": "female",
+    "position": ["middle"],
+    "species": ["human", "magically altered"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["noxus", "shurima"]
+  },
+  {
+    "index": 21,
+    "name": "Cho'gath",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["void-being"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["void"]
+  },
+  {
+    "index": 22,
+    "name": "Corki",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["yordle"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["bandle city", "piltover"]
+  },
+  {
+    "index": 23,
+    "name": "Darius",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["noxus"]
+  },
+  {
+    "index": 24,
+    "name": "Diana",
+    "gender": "female",
+    "position": ["jungle", "middle"],
+    "species": ["aspect", "human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["targon"]
+  },
+  {
+    "index": 25,
+    "name": "Dr Mundo",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["chemically altered", "human"],
+    "resource": "health costs",
+    "range": ["melee"],
+    "region": ["zaun"]
+  },
+  {
+    "index": 26,
+    "name": "Draven",
+    "gender": "male",
+    "position": ["bottom"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["noxus"]
+  },
+  {
+    "index": 27,
+    "name": "Ekko",
+    "gender": "male",
+    "position": ["jungle", "middle"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["zaun"]
+  },
+  {
+    "index": 28,
+    "name": "Elise",
+    "gender": "female",
+    "position": ["jungle"],
+    "species": ["human", "magically altered"],
+    "resource": "mana",
+    "range": ["melee", "ranged"],
+    "region": ["noxus", "shadow isles"]
+  },
+  {
+    "index": 29,
+    "name": "Evelynn",
+    "gender": "female",
+    "position": ["jungle"],
+    "species": ["demon", "spirit"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["runeterra"]
+  },
+  {
+    "index": 30,
+    "name": "Ezreal",
+    "gender": "male",
+    "position": ["bottom"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["piltover"]
+  },
+  {
+    "index": 31,
+    "name": "Fiddlesticks",
+    "gender": "other",
+    "position": ["jungle"],
+    "species": ["demon", "spirit"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["runeterra"]
+  },
+  {
+    "index": 32,
+    "name": "Fiora",
+    "gender": "female",
+    "position": ["top"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["demacia"]
+  },
+  {
+    "index": 33,
+    "name": "Fizz",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["yordle"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["bilgewater"]
+  },
+  {
+    "index": 34,
+    "name": "Galio",
+    "gender": "male",
+    "position": ["middle", "support"],
+    "species": ["golem"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["demacia"]
+  },
+  {
+    "index": 35,
+    "name": "Gangplank",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["bilgewater"]
+  },
+  {
+    "index": 36,
+    "name": "Garen",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["human"],
+    "resource": "manaless",
+    "range": ["melee"],
+    "region": ["demacia"]
+  },
+  {
+    "index": 37,
+    "name": "Gnar",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["yordle"],
+    "resource": "rage",
+    "range": ["melee", "ranged"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 38,
+    "name": "Gragas",
+    "gender": "male",
+    "position": ["jungle", "top"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 39,
+    "name": "Graves",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["bilgewater"]
+  },
+  {
+    "index": 40,
+    "name": "Gwen",
+    "gender": "female",
+    "position": ["top"],
+    "species": ["human", "magically altered"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["camavor", "shadow isles"]
+  },
+  {
+    "index": 41,
+    "name": "Hecarim",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["undead"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["camavor", "shadow isles"]
+  },
+  {
+    "index": 42,
+    "name": "Heimerdinger",
+    "gender": "male",
+    "position": ["middle", "support"],
+    "species": ["yordle"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["piltover"]
+  },
+  {
+    "index": 43,
+    "name": "Illaoi",
+    "gender": "female",
+    "position": ["top"],
+    "species": ["human", "spiritualist"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["bilgewater"]
+  },
+  {
+    "index": 44,
+    "name": "Irelia",
+    "gender": "female",
+    "position": ["middle", "top"],
+    "species": ["human", "spiritualist"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 45,
+    "name": "Ivern",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["human", "magically altered"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["freljord", "ionia"]
+  },
+  {
+    "index": 46,
+    "name": "Janna",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["god", "spirit"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["shurima", "zaun"]
+  },
+  {
+    "index": 47,
+    "name": "Jarvan IV",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["demacia"]
+  },
+  {
+    "index": 48,
+    "name": "Jax",
+    "gender": "male",
+    "position": ["jungle", "top"],
+    "species": ["unknown"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["icathia", "runeterra", "shurima"]
+  },
+  {
+    "index": 49,
+    "name": "Jayce",
+    "gender": "male",
+    "position": ["middle", "top"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["melee", "ranged"],
+    "region": ["piltover"]
+  },
+  {
+    "index": 50,
+    "name": "Jhin",
+    "gender": "male",
+    "position": ["bottom"],
+    "species": ["human", "spiritualist"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 51,
+    "name": "Jinx",
+    "gender": "female",
+    "position": ["bottom"],
+    "species": ["chemically altered", "human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["zaun"]
+  },
+  {
+    "index": 52,
+    "name": "K'sante",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["shurima"]
+  },
+  {
+    "index": 53,
+    "name": "Kai'sa",
+    "gender": "female",
+    "position": ["bottom"],
+    "species": ["human", "void-being"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["shurima", "void"]
+  },
+  {
+    "index": 54,
+    "name": "Kalista",
+    "gender": "female",
+    "position": ["bottom"],
+    "species": ["undead"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["camavor", "shadow isles"]
+  },
+  {
+    "index": 55,
+    "name": "Karma",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["human", "spiritualist"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 56,
+    "name": "Karthus",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["undead"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["noxus", "shadow isles"]
+  },
+  {
+    "index": 57,
+    "name": "Kassadin",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["human", "void-being"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["shurima", "void"]
+  },
+  {
+    "index": 58,
+    "name": "Katarina",
+    "gender": "female",
+    "position": ["middle"],
+    "species": ["human"],
+    "resource": "manaless",
+    "range": ["melee"],
+    "region": ["noxus"]
+  },
+  {
+    "index": 59,
+    "name": "Kayle",
+    "gender": "female",
+    "position": ["top"],
+    "species": ["aspect", "human", "magically altered"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["demacia", "targon"]
+  },
+  {
+    "index": 60,
+    "name": "Kayn",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["darkin", "human", "magically altered"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["ionia", "noxus", "runeterra", "shurima"]
+  },
+  {
+    "index": 61,
+    "name": "Kennen",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["yordle"],
+    "resource": "energy",
+    "range": ["ranged"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 62,
+    "name": "Kha'zix",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["void-being"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["void"]
+  },
+  {
+    "index": 63,
+    "name": "Kindred",
+    "gender": "other",
+    "position": ["jungle"],
+    "species": ["god", "spirit"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["void"]
+  },
+  {
+    "index": 64,
+    "name": "Kled",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["yordle"],
+    "resource": "courage",
+    "range": ["melee"],
+    "region": ["noxus"]
+  },
+  {
+    "index": 65,
+    "name": "Kog'maw",
+    "gender": "male",
+    "position": ["bottom"],
+    "species": ["void-being"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["void"]
+  },
+  {
+    "index": 66,
+    "name": "LeBlanc",
+    "gender": "female",
+    "position": ["middle"],
+    "species": ["human", "magically altered"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["noxus"]
+  },
+  {
+    "index": 67,
+    "name": "Lee sin",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["human", "spiritualist"],
+    "resource": "energy",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 68,
+    "name": "Leona",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["aspect", "human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["targon"]
+  },
+  {
+    "index": 69,
+    "name": "Lillia",
+    "gender": "female",
+    "position": ["jungle", "top"],
+    "species": ["spirit"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 70,
+    "name": "Lissandra",
+    "gender": "female",
+    "position": ["middle"],
+    "species": ["human", "iceborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 71,
+    "name": "Lucian",
+    "gender": "male",
+    "position": ["bottom"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["demacia", "shadow isles"]
+  },
+  {
+    "index": 72,
+    "name": "Lulu",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["yordle"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["bandle city"]
+  },
+  {
+    "index": 73,
+    "name": "Lux",
+    "gender": "female",
+    "position": ["middle", "support"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["demacia"]
+  },
+  {
+    "index": 74,
+    "name": "Malphite",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["golem"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["ixtal", "shurima"]
+  },
+  {
+    "index": 75,
+    "name": "Malzahar",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["human", "void-being"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["shurima", "void"]
+  },
+  {
+    "index": 76,
+    "name": "Maokai",
+    "gender": "male",
+    "position": ["jungle", "support"],
+    "species": ["spirit"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["shadow isles"]
+  },
+  {
+    "index": 77,
+    "name": "Master Yi",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["human", "spiritualist"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 78,
+    "name": "Miss Fortune",
+    "gender": "female",
+    "position": ["bottom"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["bilgewater"]
+  },
+  {
+    "index": 79,
+    "name": "Mordekaiser",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["revenant"],
+    "resource": "shield",
+    "range": ["melee"],
+    "region": ["noxus"]
+  },
+  {
+    "index": 80,
+    "name": "Morgana",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["aspect", "human", "magically altered"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["demacia", "targon"]
+  },
+  {
+    "index": 81,
+    "name": "Nami",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["vastayan"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["runeterra"]
+  },
+  {
+    "index": 82,
+    "name": "Nasus",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["god-warrior"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["shurima"]
+  },
+  {
+    "index": 83,
+    "name": "Nautilus",
+    "gender": "male",
+    "position": ["support"],
+    "species": ["revenant"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["bilgewater"]
+  },
+  {
+    "index": 84,
+    "name": "Neeko",
+    "gender": "female",
+    "position": ["middle", "support"],
+    "species": ["vastayan"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["ixtal"]
+  },
+  {
+    "index": 85,
+    "name": "Nidalee",
+    "gender": "female",
+    "position": ["jungle"],
+    "species": ["human", "spiritualist"],
+    "resource": "mana",
+    "range": ["melee", "ranged"],
+    "region": ["ixtal"]
+  },
+  {
+    "index": 86,
+    "name": "Nilah",
+    "gender": "female",
+    "position": ["bottom"],
+    "species": ["human", "magically altered"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["bilgewater"]
+  },
+  {
+    "index": 87,
+    "name": "Nocturne",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["demon", "spirit"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["runeterra"]
+  },
+  {
+    "index": 88,
+    "name": "Nunu and Willump",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["human", "yeti"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 89,
+    "name": "Olaf",
+    "gender": "male",
+    "position": ["jungle", "top"],
+    "species": ["human", "iceborn"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 90,
+    "name": "Orianna",
+    "gender": "female",
+    "position": ["middle"],
+    "species": ["golem"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["piltover"]
+  },
+  {
+    "index": 91,
+    "name": "Ornn",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["god", "spirit"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 92,
+    "name": "Pantheon",
+    "gender": "male",
+    "position": ["jungle", "middle", "support"],
+    "species": ["aspect", "human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["targon"]
+  },
+  {
+    "index": 93,
+    "name": "Poppy",
+    "gender": "female",
+    "position": ["jungle", "top"],
+    "species": ["yordle"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["demacia"]
+  },
+  {
+    "index": 94,
+    "name": "Pyke",
+    "gender": "male",
+    "position": ["support"],
+    "species": ["revenant"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["bilgewater"]
+  },
+  {
+    "index": 95,
+    "name": "Qiyana",
+    "gender": "female",
+    "position": ["jungle", "middle"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["ixtal"]
+  },
+  {
+    "index": 96,
+    "name": "Quinn",
+    "gender": "female",
+    "position": ["top"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["demacia"]
+  },
+  {
+    "index": 97,
+    "name": "Rakan",
+    "gender": "male",
+    "position": ["support"],
+    "species": ["vastayan"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 98,
+    "name": "Rammus",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["god-warrior"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["shurima"]
+  },
+  {
+    "index": 99,
+    "name": "Rek'sai",
+    "gender": "female",
+    "position": ["jungle"],
+    "species": ["void-being"],
+    "resource": "rage",
+    "range": ["melee"],
+    "region": ["shurima", "void"]
+  },
+  {
+    "index": 100,
+    "name": "Rell",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["human", "magically altered", "magicborn"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["noxus"]
+  },
+  {
+    "index": 101,
+    "name": "Renata Glasc",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["chemically altered", "human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["zaun"]
+  },
+  {
+    "index": 102,
+    "name": "Renekton",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["god-warrior"],
+    "resource": "fury",
+    "range": ["melee"],
+    "region": ["shurima"]
+  },
+  {
+    "index": 103,
+    "name": "Rengar",
+    "gender": "male",
+    "position": ["jungle", "top"],
+    "species": ["vastayan"],
+    "resource": "ferocity",
+    "range": ["melee"],
+    "region": ["ixtal", "shurima"]
+  },
+  {
+    "index": 104,
+    "name": "Riven",
+    "gender": "female",
+    "position": ["top"],
+    "species": ["human"],
+    "resource": "manaless",
+    "range": ["melee"],
+    "region": ["ionia", "noxus"]
+  },
+  {
+    "index": 105,
+    "name": "Rumble",
+    "gender": "male",
+    "position": ["middle", "top"],
+    "species": ["yordle"],
+    "resource": "heat",
+    "range": ["melee"],
+    "region": ["bandle city"]
+  },
+  {
+    "index": 106,
+    "name": "Ryze",
+    "gender": "male",
+    "position": ["middle", "top"],
+    "species": ["human", "magically altered"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["runeterra"]
+  },
+  {
+    "index": 107,
+    "name": "Samira",
+    "gender": "female",
+    "position": ["bottom"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["noxus", "shurima"]
+  },
+  {
+    "index": 108,
+    "name": "Sejuani",
+    "gender": "female",
+    "position": ["jungle", "top"],
+    "species": ["human", "iceborn"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 109,
+    "name": "Senna",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["human", "undead"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["shadow isles"]
+  },
+  {
+    "index": 110,
+    "name": "Seraphine",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["piltover", "zaun"]
+  },
+  {
+    "index": 111,
+    "name": "Sett",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["human", "vastayan"],
+    "resource": "grit",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 112,
+    "name": "Shaco",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["spirit"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["runeterra"]
+  },
+  {
+    "index": 113,
+    "name": "Shen",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["human", "spiritualist"],
+    "resource": "energy",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 114,
+    "name": "Shyvana",
+    "gender": "female",
+    "position": ["jungle"],
+    "species": ["dragon", "magically altered"],
+    "resource": "fury",
+    "range": ["melee"],
+    "region": ["demacia"]
+  },
+  {
+    "index": 115,
+    "name": "Singed",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["chemically altered", "human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["piltover", "zaun"]
+  },
+  {
+    "index": 116,
+    "name": "Sion",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["revenant"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["noxus"]
+  },
+  {
+    "index": 117,
+    "name": "Sivir",
+    "gender": "female",
+    "position": ["bottom"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["shurima"]
+  },
+  {
+    "index": 118,
+    "name": "Skarner",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["brackern"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["shurima"]
+  },
+  {
+    "index": 119,
+    "name": "Sona",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["demacia", "ionia"]
+  },
+  {
+    "index": 120,
+    "name": "Swain",
+    "gender": "male",
+    "position": ["middle", "support"],
+    "species": ["human", "magically altered"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["noxus"]
+  },
+  {
+    "index": 121,
+    "name": "Sylas",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["demacia", "freljord"]
+  },
+  {
+    "index": 122,
+    "name": "Syndra",
+    "gender": "female",
+    "position": ["middle"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 123,
+    "name": "Tahm Kench",
+    "gender": "male",
+    "position": ["support", "top"],
+    "species": ["demon", "spirit"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["bilgewater", "runeterra"]
+  },
+  {
+    "index": 124,
+    "name": "Taliyah",
+    "gender": "female",
+    "position": ["jungle", "middle"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["shurima"]
+  },
+  {
+    "index": 125,
+    "name": "Talon",
+    "gender": "male",
+    "position": ["jungle", "middle"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["noxus"]
+  },
+  {
+    "index": 126,
+    "name": "Taric",
+    "gender": "male",
+    "position": ["support"],
+    "species": ["aspect", "human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["demacia", "targon"]
+  },
+  {
+    "index": 127,
+    "name": "Teemo",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["yordle"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["bandle city"]
+  },
+  {
+    "index": 128,
+    "name": "Thresh",
+    "gender": "male",
+    "position": ["support"],
+    "species": ["undead"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["shadow isles"]
+  },
+  {
+    "index": 129,
+    "name": "Tristana",
+    "gender": "female",
+    "position": ["bottom"],
+    "species": ["yordle"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["bandle city"]
+  },
+  {
+    "index": 130,
+    "name": "Trundle",
+    "gender": "male",
+    "position": ["jungle", "top"],
+    "species": ["iceborn", "troll"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 131,
+    "name": "Tryndamere",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["human", "magically altered"],
+    "resource": "fury",
+    "range": ["melee"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 132,
+    "name": "Twisted Fate",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["bilgewater"]
+  },
+  {
+    "index": 133,
+    "name": "Twitch",
+    "gender": "male",
+    "position": ["bottom"],
+    "species": ["chemically altered", "rat"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["zaun"]
+  },
+  {
+    "index": 134,
+    "name": "Udyr",
+    "gender": "male",
+    "position": ["jungle", "top"],
+    "species": ["human", "spiritualist"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["freljord", "ionia"]
+  },
+  {
+    "index": 135,
+    "name": "Urgot",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["chemically altered", "cyborg", "human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["noxus", "zaun"]
+  },
+  {
+    "index": 136,
+    "name": "Varus",
+    "gender": "male",
+    "position": ["bottom", "middle"],
+    "species": ["darkin", "human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["ionia", "runeterra", "shurima"]
+  },
+  {
+    "index": 137,
+    "name": "Vayne",
+    "gender": "female",
+    "position": ["bottom", "top"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["ionia", "runeterra", "shurima"]
+  },
+  {
+    "index": 138,
+    "name": "Veigar",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["yordle"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["bandle city", "runeterra"]
+  },
+  {
+    "index": 139,
+    "name": "Vel'koz",
+    "gender": "male",
+    "position": ["middle", "support"],
+    "species": ["void-being"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["void"]
+  },
+  {
+    "index": 140,
+    "name": "Vex",
+    "gender": "female",
+    "position": ["middle"],
+    "species": ["yordle"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["bandle city", "shadow isles"]
+  },
+  {
+    "index": 141,
+    "name": "Vi",
+    "gender": "female",
+    "position": ["jungle"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["piltover", "zaun"]
+  },
+  {
+    "index": 142,
+    "name": "Viego",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["undead"],
+    "resource": "manaless",
+    "range": ["melee"],
+    "region": ["camavor", "shadow isles"]
+  },
+  {
+    "index": 143,
+    "name": "Viktor",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["cyborg", "human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["piltover", "zaun"]
+  },
+  {
+    "index": 144,
+    "name": "Vladimir",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["human", "magically altered"],
+    "resource": "bloodthirst",
+    "range": ["ranged"],
+    "region": ["camavor", "noxus", "shadow isles"]
+  },
+  {
+    "index": 145,
+    "name": "Volibear",
+    "gender": "male",
+    "position": ["jungle", "top"],
+    "species": ["god", "spirit"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["freljord"]
+  },
+  {
+    "index": 146,
+    "name": "Warwick",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["chemically altered", "cyborg", "human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["zaun"]
+  },
+  {
+    "index": 147,
+    "name": "Wukong",
+    "gender": "male",
+    "position": ["jungle", "top"],
+    "species": ["vastayan"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 148,
+    "name": "Xayah",
+    "gender": "female",
+    "position": ["bottom"],
+    "species": ["vastayan"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 149,
+    "name": "Xerath",
+    "gender": "male",
+    "position": ["middle", "support"],
+    "species": ["god-warrior"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["shurima"]
+  },
+  {
+    "index": 150,
+    "name": "Xin Zhao",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["human"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["demacia", "ionia", "noxus"]
+  },
+  {
+    "index": 151,
+    "name": "Yasuo",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["human", "magicborn"],
+    "resource": "flow",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 152,
+    "name": "Yone",
+    "gender": "male",
+    "position": ["middle", "top"],
+    "species": ["human", "magically altered"],
+    "resource": "manaless",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 153,
+    "name": "Yorick",
+    "gender": "male",
+    "position": ["top"],
+    "species": ["human", "magically altered"],
+    "resource": "mana",
+    "range": ["melee"],
+    "region": ["shadow isles"]
+  },
+  {
+    "index": 154,
+    "name": "Yuumi",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["cat", "magically altered"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["bandle city"]
+  },
+  {
+    "index": 155,
+    "name": "Zac",
+    "gender": "male",
+    "position": ["jungle"],
+    "species": ["golem"],
+    "resource": "health costs",
+    "range": ["melee"],
+    "region": ["zaun"]
+  },
+  {
+    "index": 156,
+    "name": "Zed",
+    "gender": "male",
+    "position": ["middle"],
+    "species": ["human", "magically altered"],
+    "resource": "energy",
+    "range": ["melee"],
+    "region": ["ionia"]
+  },
+  {
+    "index": 157,
+    "name": "Zeri",
+    "gender": "female",
+    "position": ["bottom"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["zaun"]
+  },
+  {
+    "index": 158,
+    "name": "Ziggs",
+    "gender": "male",
+    "position": ["bottom", "middle"],
+    "species": ["yordle"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["zaun"]
+  },
+  {
+    "index": 159,
+    "name": "Zilean",
+    "gender": "male",
+    "position": ["support"],
+    "species": ["human", "magicborn"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["icathia", "runeterra", "shurima"]
+  },
+  {
+    "index": 160,
+    "name": "Zoe",
+    "gender": "female",
+    "position": ["middle"],
+    "species": ["aspect", "human"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["targon"]
+  },
+  {
+    "index": 161,
+    "name": "Soraka",
+    "gender": "female",
+    "position": ["support"],
+    "species": ["celestial"],
+    "resource": "mana",
+    "range": ["ranged"],
+    "region": ["ionia", "targon"]
+  }
+]
